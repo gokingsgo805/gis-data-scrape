@@ -1,0 +1,1 @@
+/tmp/radarenv/bin/python '/mnt/c/Users/Cobiwan Kenobi/Documents/Codex/arizona_meteorite_radar_screening/scan_arizona_archival_radar.py' --start-utc 2014-01-01T00:00:00Z --end-utc 2014-01-01T00:20:00Z --stations KFSX,KIWA,KEMX,KYUX,KESX,KICX,KABX,KFDX,KEPZ,KSOX,KNKX,KVBX --label az_dualpol_runner_smoke --max-files 4 --delete-cache
