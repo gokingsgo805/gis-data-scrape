@@ -1,0 +1,4 @@
+*.geojson
+*.kml
+*.kmz
+build_summary.json
