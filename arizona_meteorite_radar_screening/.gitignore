@@ -1,0 +1,10 @@
+cache/
+*.log
+*.pid
+*.logpath
+*_station_day_commands.sh
+*_station_3h_commands.sh
+*_candidates.csv
+*_candidates.geojson
+*_candidates.kmz
+*_summary.json
