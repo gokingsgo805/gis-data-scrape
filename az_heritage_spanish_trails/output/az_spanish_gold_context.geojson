@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "generated": "2026-05-04",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95,
+          31.62
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River - Sonoita Creek Spanish Prospecting Corridor",
+        "county": "Santa Cruz / Pima",
+        "location_type": "generalized colonial prospecting corridor",
+        "gold_relevance": "AZGS notes late-1600s Spanish prospecting in mountains bordering the Santa Cruz River and Sonoita Creek, with emphasis on metallic deposits.",
+        "confidence": "source-supported corridor, generalized",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049,
+          31.59
+        ]
+      },
+      "properties": {
+        "name": "Tumacacori - Tubac Mission/Presidio Corridor",
+        "county": "Santa Cruz",
+        "location_type": "public Spanish colonial corridor",
+        "gold_relevance": "Public mission/presidio corridor near the Santa Cruz/Sonoita mining-history area; included for Spanish colonial context rather than as a mine coordinate.",
+        "confidence": "verified public heritage locations, generalized",
+        "source": "NPS Tumacacori and Arizona State Parks Tubac public sites",
+        "source_url": "https://www.nps.gov/tuma/",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.991,
+          32.165
+        ]
+      },
+      "properties": {
+        "name": "San Xavier del Bac - Tucson Presidio Corridor",
+        "county": "Pima",
+        "location_type": "public Spanish colonial corridor",
+        "gold_relevance": "Public Spanish colonial mission/presidio context on the Santa Cruz travel corridor; not mapped as a mine or cache.",
+        "confidence": "verified public heritage locations, generalized",
+        "source": "Mission San Xavier del Bac and Tucson Presidio public sites",
+        "source_url": "https://sanxaviermission.org/",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.113,
+          34.749
+        ]
+      },
+      "properties": {
+        "name": "Jerome / Verde Mining District Context",
+        "county": "Yavapai",
+        "location_type": "historic mining-district context point",
+        "gold_relevance": "AZGS notes Antonio de Espejo's 1583 silver discovery south of the San Francisco Peaks, near what some believe is present-day Jerome.",
+        "confidence": "historical attribution is qualified by source",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "generated": "2026-05-04",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.05,
+            31.46
+          ],
+          [
+            -111.05,
+            31.61
+          ],
+          [
+            -110.97,
+            31.78
+          ],
+          [
+            -110.75,
+            31.78
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz - Sonoita Spanish Prospecting Corridor",
+        "location_type": "generalized corridor line",
+        "gold_relevance": "Generalized line connecting public Spanish colonial sites with the Santa Cruz/Sonoita mining-history corridor described by AZGS.",
+        "confidence": "generalized interpretive corridor",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Generalized Spanish/gold corridors",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.62,
+            32.72
+          ],
+          [
+            -114.38,
+            32.74
+          ],
+          [
+            -114.33,
+            33.65
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lower Colorado - Gila Placer District Corridor",
+        "location_type": "generalized corridor line",
+        "gold_relevance": "Generalized public corridor tying lower Colorado/Gila placer districts and crossing context.",
+        "confidence": "generalized interpretive corridor",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Generalized Spanish/gold corridors",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    }
+  ]
+}

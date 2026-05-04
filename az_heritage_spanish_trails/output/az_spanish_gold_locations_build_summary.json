@@ -1,0 +1,22 @@
+{
+  "generated": "2026-05-04",
+  "feature_counts": {
+    "Spanish Colonial Gold Context": 4,
+    "Arizona Public Gold Districts": 12,
+    "Generalized Spanish/Gold Corridors": 2
+  },
+  "outputs": [
+    "output/az_spanish_gold_context.geojson",
+    "output/az_public_gold_districts_generalized.geojson",
+    "output/az_spanish_gold_corridors_generalized.geojson",
+    "output/az_spanish_gold_locations_bundle.geojson",
+    "output/az_spanish_gold_locations_bundle.kmz",
+    "output/az_spanish_gold_context.kmz",
+    "output/az_public_gold_districts_generalized.kmz"
+  ],
+  "notes": [
+    "Generalized public district/corridor points only.",
+    "Not exact dig, treasure, cache, claim, mine-working, or archaeological-site coordinates.",
+    "Source URLs are embedded in feature properties."
+  ]
+}

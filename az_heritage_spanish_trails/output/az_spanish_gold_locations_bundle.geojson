@@ -1,0 +1,442 @@
+{
+  "type": "FeatureCollection",
+  "generated": "2026-05-04",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95,
+          31.62
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River - Sonoita Creek Spanish Prospecting Corridor",
+        "county": "Santa Cruz / Pima",
+        "location_type": "generalized colonial prospecting corridor",
+        "gold_relevance": "AZGS notes late-1600s Spanish prospecting in mountains bordering the Santa Cruz River and Sonoita Creek, with emphasis on metallic deposits.",
+        "confidence": "source-supported corridor, generalized",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049,
+          31.59
+        ]
+      },
+      "properties": {
+        "name": "Tumacacori - Tubac Mission/Presidio Corridor",
+        "county": "Santa Cruz",
+        "location_type": "public Spanish colonial corridor",
+        "gold_relevance": "Public mission/presidio corridor near the Santa Cruz/Sonoita mining-history area; included for Spanish colonial context rather than as a mine coordinate.",
+        "confidence": "verified public heritage locations, generalized",
+        "source": "NPS Tumacacori and Arizona State Parks Tubac public sites",
+        "source_url": "https://www.nps.gov/tuma/",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.991,
+          32.165
+        ]
+      },
+      "properties": {
+        "name": "San Xavier del Bac - Tucson Presidio Corridor",
+        "county": "Pima",
+        "location_type": "public Spanish colonial corridor",
+        "gold_relevance": "Public Spanish colonial mission/presidio context on the Santa Cruz travel corridor; not mapped as a mine or cache.",
+        "confidence": "verified public heritage locations, generalized",
+        "source": "Mission San Xavier del Bac and Tucson Presidio public sites",
+        "source_url": "https://sanxaviermission.org/",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.113,
+          34.749
+        ]
+      },
+      "properties": {
+        "name": "Jerome / Verde Mining District Context",
+        "county": "Yavapai",
+        "location_type": "historic mining-district context point",
+        "gold_relevance": "AZGS notes Antonio de Espejo's 1583 silver discovery south of the San Francisco Peaks, near what some believe is present-day Jerome.",
+        "confidence": "historical attribution is qualified by source",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Spanish colonial gold context",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.37,
+          31.55
+        ]
+      },
+      "properties": {
+        "name": "Oro Blanco / Arivaca District",
+        "county": "Santa Cruz / Pima",
+        "location_type": "generalized gold district",
+        "gold_relevance": "Southern Arizona gold district near the Spanish colonial Santa Cruz/Sonoita sphere.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS MRDS and USGS Placer Gold Deposits of Arizona context",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.75,
+          31.78
+        ]
+      },
+      "properties": {
+        "name": "Greaterville District",
+        "county": "Pima",
+        "location_type": "generalized placer/lode gold district",
+        "gold_relevance": "Historically important Santa Rita Mountains gold district; included as a public district-scale point.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.23,
+          31.98
+        ]
+      },
+      "properties": {
+        "name": "Quijotoa District",
+        "county": "Pima",
+        "location_type": "generalized gold district",
+        "gold_relevance": "Southern Arizona historic gold district; district-level screening point only.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.53,
+          31.83
+        ]
+      },
+      "properties": {
+        "name": "Las Guijas District",
+        "county": "Pima",
+        "location_type": "generalized placer gold district",
+        "gold_relevance": "Historic southern Arizona placer district; included because it lies in the broader Spanish colonial southern-Arizona region.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.33,
+          33.65
+        ]
+      },
+      "properties": {
+        "name": "La Paz / Plomosa District",
+        "county": "La Paz",
+        "location_type": "generalized placer gold district",
+        "gold_relevance": "Major Colorado River-area placer gold district; later than Spanish colonial mining, but a verified Arizona gold locality.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.38,
+          32.74
+        ]
+      },
+      "properties": {
+        "name": "Gila City / Dome District",
+        "county": "Yuma",
+        "location_type": "generalized placer gold district",
+        "gold_relevance": "Historic lower Colorado/Gila River placer district; public district-scale point.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69,
+          34.17
+        ]
+      },
+      "properties": {
+        "name": "Weaver / Rich Hill District",
+        "county": "Yavapai",
+        "location_type": "generalized placer/lode gold district",
+        "gold_relevance": "Central Arizona gold district, mapped at district scale only.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.83,
+          33.82
+        ]
+      },
+      "properties": {
+        "name": "Vulture / Wickenburg District",
+        "county": "Maricopa",
+        "location_type": "generalized lode/placer gold district",
+        "gold_relevance": "Historic Wickenburg-area gold district, included as a verified Arizona gold locality.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS MRDS and Arizona Geological Survey mineral resources context",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.42,
+          34.52
+        ]
+      },
+      "properties": {
+        "name": "Bradshaw Mountains / Lynx Creek District",
+        "county": "Yavapai",
+        "location_type": "generalized placer/lode gold district",
+        "gold_relevance": "Historic central Arizona placer and lode gold area; public district-scale point.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.38,
+          35.03
+        ]
+      },
+      "properties": {
+        "name": "Oatman / San Francisco District",
+        "county": "Mohave",
+        "location_type": "generalized lode gold district",
+        "gold_relevance": "Major historic Arizona lode gold district; not Spanish colonial, but verified gold-mining context.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS MRDS and Arizona Geological Survey mineral resources context",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.18,
+          35.92
+        ]
+      },
+      "properties": {
+        "name": "Gold Basin - Lost Basin Districts",
+        "county": "Mohave",
+        "location_type": "generalized lode/placer gold districts",
+        "gold_relevance": "USGS describes adjacent Gold Basin and Lost Basin districts with recorded gold production and placer/lode sources.",
+        "confidence": "USGS district report, generalized",
+        "source": "USGS OFR 82-1052",
+        "source_url": "https://www.usgs.gov/publications/preliminary-report-geology-and-gold-mineralization-gold-basin-lost-basin-mining",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.14,
+          33.2
+        ]
+      },
+      "properties": {
+        "name": "Castle Dome / Kofa Region",
+        "county": "Yuma",
+        "location_type": "generalized historic mining region",
+        "gold_relevance": "Historic southwestern Arizona precious-metal region; public generalized context point.",
+        "confidence": "public district centroid, generalized",
+        "source": "USGS MRDS and USGS Placer Gold Deposits of Arizona context",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Arizona public gold districts",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.05,
+            31.46
+          ],
+          [
+            -111.05,
+            31.61
+          ],
+          [
+            -110.97,
+            31.78
+          ],
+          [
+            -110.75,
+            31.78
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz - Sonoita Spanish Prospecting Corridor",
+        "location_type": "generalized corridor line",
+        "gold_relevance": "Generalized line connecting public Spanish colonial sites with the Santa Cruz/Sonoita mining-history corridor described by AZGS.",
+        "confidence": "generalized interpretive corridor",
+        "source": "Arizona Geological Survey - Arizona Mineral Resources",
+        "source_url": "https://azgs.arizona.edu/mapping-minerals/arizona-mineral-resources",
+        "layer": "Generalized Spanish/gold corridors",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -114.62,
+            32.72
+          ],
+          [
+            -114.38,
+            32.74
+          ],
+          [
+            -114.33,
+            33.65
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lower Colorado - Gila Placer District Corridor",
+        "location_type": "generalized corridor line",
+        "gold_relevance": "Generalized public corridor tying lower Colorado/Gila placer districts and crossing context.",
+        "confidence": "generalized interpretive corridor",
+        "source": "USGS Placer Gold Deposits of Arizona",
+        "source_url": "https://www.usgs.gov/publications/placer-gold-deposits-arizona",
+        "layer": "Generalized Spanish/gold corridors",
+        "build_date": "2026-05-04",
+        "sensitivity_note": "Mapped as a public generalized district, settlement, mission, crossing, or corridor point. Coordinates are not exact mine workings or confidential archaeological locations.",
+        "legal_caution": "General historical/mineral screening only. Not a claimability, access, ownership, safety, archaeological-site, or treasure-cache determination. Check BLM/Arizona claim records, land status, closures, permits, and local rules before field work."
+      }
+    }
+  ]
+}
