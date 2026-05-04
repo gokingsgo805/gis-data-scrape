@@ -1,33 +1,39 @@
 # Arizona Gold GIS Screening Scripts
 
-These scripts reproduce the Arizona gold GIS layers generated in Codex:
+This folder contains reproducible Python scripts for the Arizona gold GIS
+workflow built in Codex.
 
-- MRDS statewide Arizona gold screening.
-- WWII-window past-producer gold mine screening.
-- BLM MLRS/NLSDB live active-claim status layers.
-- Claim boundary, acreage, patent-field, and underground-workings summaries.
-- Statewide predicted gold target layers.
+Workflows covered:
 
-The scripts are screening tools only. They do not prove gold is present and do
-not determine claimability, land status, access rights, patent/private land, or
-safety. Verify results in MLRS, county recorder records, BLM land-status
-records, patents/private parcel data, withdrawals, surface-management rules,
-and field monuments before acting.
+- Pull Arizona MRDS records from the USGS MRDS OGC FeatureServer.
+- Screen Arizona gold records and WWII-window past-producing gold mines.
+- Query BLM MLRS/NLSDB live active mining-claim polygons near mine points.
+- Export claim status, claim boundaries, claim acreage, patent-field screens,
+  underground-workings screens, GeoJSON, CSV, KML, and KMZ.
+- Build statewide predictive gold target layers from all Arizona MRDS gold
+  records.
+- Screen collector-mineral targets and reverse cross-reference visible eBay
+  specimen evidence against public MRDS-style target layers.
+
+The newer combined entrypoint is `arizona_gold_gis_pipeline.py`. The earlier
+split scripts are kept in this repository too so older runs remain
+reproducible.
 
 ## Requirements
 
 Python 3.10+ using only the standard library.
 
-## Quick Start
+## Examples
 
 ```bash
+python3 arizona_gold_gis_pipeline.py fetch-mrds --out ./az_gold_outputs
+python3 arizona_gold_gis_pipeline.py ww2-screen --raw ./az_gold_outputs/mrds_arizona_raw.geojson --out ./az_gold_outputs
+python3 arizona_gold_gis_pipeline.py live-claims --mine-points ./az_gold_outputs/az_ww2_shutdown_never_reopened_gold_mines_all_screened.geojson --out ./az_live_claim_status
+python3 arizona_gold_gis_pipeline.py predict-statewide --raw ./az_gold_outputs/mrds_arizona_raw.geojson --out ./az_statewide_gold_predictions
 python3 arizona_gold_pipeline.py --out "./az_gold_outputs"
 python3 arizona_live_claim_status.py --mine-points "./az_gold_outputs/az_ww2_shutdown_never_reopened_gold_mines_all_screened.geojson" --out "./az_live_claim_status"
-python3 arizona_statewide_gold_predictions.py --raw-mrds "./az_gold_outputs/mrds_arizona_raw.geojson" --out "./az_statewide_gold_predictions"
+python3 arizona_statewide_gold_predictions.py --raw "./az_gold_outputs/mrds_arizona_raw.geojson" --out "./az_statewide_gold_predictions"
 ```
-
-The output folders include GeoJSON, KML/KMZ, CSV, README, and build-summary
-files.
 
 ## Source Services
 
@@ -36,8 +42,11 @@ files.
 - BLM MLRS/NLSDB Mining Claims MapServer:
   `https://gis.blm.gov/nlsdb/rest/services/Mining_Claims/MiningClaims/MapServer`
 
-## Notes
+## Caution
 
-BLM claim polygons are often derived from PLSS/legal descriptions and may not
-represent exact staked claim corners. The `MC_PATENTED` field being blank does
-not prove that no patented/private land exists.
+These are screening tools only. They do not prove gold is present and do not
+determine claimability, land status, access rights, patent/private ownership,
+withdrawals, or safety. BLM claim polygons are often derived from PLSS/legal
+descriptions and may not represent exact staked claim corners. Verify results in
+MLRS, county recorder records, BLM land-status records, patents/private parcel
+data, withdrawals, surface-management rules, and field monuments before acting.
