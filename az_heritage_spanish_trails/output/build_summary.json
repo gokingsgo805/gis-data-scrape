@@ -1,0 +1,24 @@
+{
+  "feature_counts": {
+    "Public Indigenous Heritage Sites": 18,
+    "Spanish Colonial Public Sites": 7,
+    "Old Spanish National Historic Trail - Arizona": 4,
+    "Juan Bautista de Anza National Historic Trail - Arizona": 18
+  },
+  "outputs": [
+    "output/az_public_indigenous_heritage_sites.geojson",
+    "output/az_spanish_colonial_sites.geojson",
+    "output/az_old_spanish_nht_arizona.geojson",
+    "output/az_anza_nht_arizona.geojson",
+    "output/az_heritage_spanish_trails_bundle.geojson",
+    "output/az_public_indigenous_heritage_sites.kmz",
+    "output/az_spanish_colonial_sites.kmz",
+    "output/az_old_spanish_nht_arizona.kmz",
+    "output/az_anza_nht_arizona.kmz",
+    "output/az_heritage_spanish_trails_bundle.kmz"
+  ],
+  "notes": [
+    "Public interpreted/managed sites only.",
+    "Trail lines use official NPS ArcGIS feature services and are clipped approximately to Arizona."
+  ]
+}

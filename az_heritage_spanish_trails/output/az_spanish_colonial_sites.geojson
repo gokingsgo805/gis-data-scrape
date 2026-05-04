@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0517,
+          31.5687
+        ]
+      },
+      "properties": {
+        "name": "Tumacacori National Historical Park",
+        "site_type": "Spanish colonial mission site / national historical park",
+        "access_note": "Public NPS site on the Anza Trail corridor.",
+        "source_url": "https://www.nps.gov/tuma/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.047,
+          31.612
+        ]
+      },
+      "properties": {
+        "name": "Tubac Presidio State Historic Park",
+        "site_type": "Spanish presidio / state historic park",
+        "access_note": "Public Arizona State Parks site.",
+        "source_url": "https://azstateparks.com/tubac",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0071,
+          32.1078
+        ]
+      },
+      "properties": {
+        "name": "Mission San Xavier del Bac",
+        "site_type": "Spanish colonial mission church",
+        "access_note": "Public mission site on the Tohono O'odham Nation; follow local access rules.",
+        "source_url": "https://sanxaviermission.org/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974,
+          32.2226
+        ]
+      },
+      "properties": {
+        "name": "Presidio San Agustin del Tucson Museum",
+        "site_type": "Spanish presidio museum",
+        "access_note": "Public museum in downtown Tucson.",
+        "source_url": "https://tucsonpresidio.com/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.615,
+          32.725
+        ]
+      },
+      "properties": {
+        "name": "Yuma Crossing National Heritage Area",
+        "site_type": "Colorado River crossing and colonial/territorial heritage area",
+        "access_note": "Public heritage area connected to historic travel corridors.",
+        "source_url": "https://www.yumaheritage.com/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9676,
+          31.458
+        ]
+      },
+      "properties": {
+        "name": "Los Santos Angeles de Guevavi Mission Unit",
+        "site_type": "Spanish colonial mission site / NPS unit",
+        "access_note": "Managed Tumacacori NHP unit; public access may be guided or limited.",
+        "source_url": "https://www.nps.gov/tuma/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.06,
+          31.497
+        ]
+      },
+      "properties": {
+        "name": "Calabazas Mission Unit",
+        "site_type": "Spanish colonial mission site / NPS unit",
+        "access_note": "Managed Tumacacori NHP unit; public access may be guided or limited.",
+        "source_url": "https://www.nps.gov/tuma/",
+        "layer": "Spanish colonial public sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5355,
+          32.9954
+        ]
+      },
+      "properties": {
+        "name": "Casa Grande Ruins National Monument",
+        "culture_period": "Hohokam / ancestral Sonoran Desert communities",
+        "site_type": "managed national monument visitor site",
+        "access_note": "Public NPS site; mapped at the visitor/monument area.",
+        "source_url": "https://www.nps.gov/cagr/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8357,
+          34.6118
+        ]
+      },
+      "properties": {
+        "name": "Montezuma Castle National Monument",
+        "culture_period": "Sinagua / ancestral Verde Valley communities",
+        "site_type": "managed national monument visitor site",
+        "access_note": "Public NPS site; mapped at the public visitor area.",
+        "source_url": "https://www.nps.gov/moca/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0274,
+          34.7723
+        ]
+      },
+      "properties": {
+        "name": "Tuzigoot National Monument",
+        "culture_period": "Sinagua / ancestral Verde Valley communities",
+        "site_type": "managed national monument pueblo site",
+        "access_note": "Public NPS site; mapped at the public visitor area.",
+        "source_url": "https://www.nps.gov/tuzi/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5103,
+          35.1682
+        ]
+      },
+      "properties": {
+        "name": "Walnut Canyon National Monument",
+        "culture_period": "Sinagua / ancestral Flagstaff-area communities",
+        "site_type": "managed national monument cliff dwelling visitor site",
+        "access_note": "Public NPS site; mapped at the public visitor area.",
+        "source_url": "https://www.nps.gov/waca/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3957,
+          35.5239
+        ]
+      },
+      "properties": {
+        "name": "Wupatki National Monument",
+        "culture_period": "Ancestral Puebloan and related descendant communities",
+        "site_type": "managed national monument pueblo landscape",
+        "access_note": "Public NPS site; mapped at the public visitor area.",
+        "source_url": "https://www.nps.gov/wupa/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5364,
+          36.6769
+        ]
+      },
+      "properties": {
+        "name": "Navajo National Monument",
+        "culture_period": "Ancestral Puebloan / descendant Tribal communities",
+        "site_type": "managed national monument visitor area",
+        "access_note": "Public NPS site; mapped at the visitor area, not closed ruins.",
+        "source_url": "https://www.nps.gov/nava/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5468,
+          36.1314
+        ]
+      },
+      "properties": {
+        "name": "Canyon de Chelly National Monument Visitor Center",
+        "culture_period": "Ancestral Puebloan, Hopi, Navajo, and other communities",
+        "site_type": "managed national monument visitor area",
+        "access_note": "Mapped at the public visitor center/overlook context.",
+        "source_url": "https://www.nps.gov/cach/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1125,
+          33.6464
+        ]
+      },
+      "properties": {
+        "name": "Tonto National Monument",
+        "culture_period": "Salado / ancestral Tonto Basin communities",
+        "site_type": "managed national monument cliff dwelling visitor site",
+        "access_note": "Public NPS site; mapped at the visitor area.",
+        "source_url": "https://www.nps.gov/tont/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6529,
+          35.0807
+        ]
+      },
+      "properties": {
+        "name": "Homolovi State Park",
+        "culture_period": "Hopi ancestral sites",
+        "site_type": "managed state park archaeological landscape",
+        "access_note": "Public Arizona State Parks site; respect signed closures.",
+        "source_url": "https://azstateparks.com/homolovi",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9863,
+          33.4457
+        ]
+      },
+      "properties": {
+        "name": "S'edav Va'aki Museum",
+        "culture_period": "Ancestral O'Odham / Hohokam",
+        "site_type": "city museum and archaeological park",
+        "access_note": "Public museum/park in Phoenix.",
+        "source_url": "https://www.phoenix.gov/parks/arts-culture-history/sedav-vaaki",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7815,
+          33.3943
+        ]
+      },
+      "properties": {
+        "name": "Besh-Ba-Gowah Archaeological Park",
+        "culture_period": "Salado / ancestral regional communities",
+        "site_type": "city archaeological park",
+        "access_note": "Public interpreted park in Globe.",
+        "source_url": "https://www.globeaz.gov/visitors/besh-ba-gowah",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1504,
+          33.6836
+        ]
+      },
+      "properties": {
+        "name": "Deer Valley Petroglyph Preserve",
+        "culture_period": "Patayan, Hohokam, and Archaic traditions",
+        "site_type": "managed petroglyph preserve",
+        "access_note": "Public preserve with controlled access.",
+        "source_url": "https://shesc.asu.edu/deer-valley-petroglyph-preserve",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.712,
+          34.67
+        ]
+      },
+      "properties": {
+        "name": "V-Bar-V Heritage Site",
+        "culture_period": "Sinagua / Verde Valley rock art",
+        "site_type": "managed heritage site",
+        "access_note": "Public Coconino National Forest heritage site.",
+        "source_url": "https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55272",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.898,
+          34.915
+        ]
+      },
+      "properties": {
+        "name": "Palatki Heritage Site",
+        "culture_period": "Sinagua / Verde Valley cliff dwellings and rock art",
+        "site_type": "managed heritage site",
+        "access_note": "Public managed Coconino National Forest site; reservations may apply.",
+        "source_url": "https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55368",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8378,
+          33.4236
+        ]
+      },
+      "properties": {
+        "name": "Mesa Grande Cultural Park",
+        "culture_period": "Ancestral O'Odham / Hohokam",
+        "site_type": "city cultural park",
+        "access_note": "Public city park and interpreted platform mound site.",
+        "source_url": "https://www.mesaaz.gov/things-to-do/arts-culture/museums/mesa-grande-cultural-park",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2767,
+          34.1296
+        ]
+      },
+      "properties": {
+        "name": "Casa Malpais Archaeological Park",
+        "culture_period": "Mogollon / ancestral White Mountain communities",
+        "site_type": "managed archaeological park",
+        "access_note": "Public interpreted park in Springerville.",
+        "source_url": "https://www.springervilleaz.gov/casa-malpais-archaeological-park/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.018,
+          33.025
+        ]
+      },
+      "properties": {
+        "name": "Painted Rock Petroglyph Site",
+        "culture_period": "Hohokam, Patayan, and other regional traditions",
+        "site_type": "managed BLM petroglyph site",
+        "access_note": "Public BLM site; stay on designated routes.",
+        "source_url": "https://www.blm.gov/visit/painted-rock-petroglyph-site",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2167,
+          32.247
+        ]
+      },
+      "properties": {
+        "name": "Signal Hill Petroglyphs",
+        "culture_period": "Hohokam / ancestral Sonoran Desert communities",
+        "site_type": "managed national park visitor site",
+        "access_note": "Public Saguaro National Park trail stop.",
+        "source_url": "https://www.nps.gov/sagu/",
+        "layer": "Public Indigenous heritage sites",
+        "sensitivity_note": "Public-facing managed site or visitor point; not a confidential archaeological coordinate."
+      }
+    }
+  ]
+}
